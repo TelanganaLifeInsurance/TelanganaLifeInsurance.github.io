@@ -1,5 +1,9 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
+slides{
+  background-color: grey;
+}
+
 a {
   color: #008B8B;
 }
