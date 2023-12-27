@@ -116,7 +116,7 @@ color: #fff;
 font-weight: bold;
 }
 
-.marketing {
+.market {
 background: url('images/content-bg.jpg') top center repeat-x;
 background-color: #008B8B;
 padding: 40px 30px 75px 20px;
@@ -125,6 +125,11 @@ margin-top: -50px;
 -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
 -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
 box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+}
+
+.marketing {
+background-color: #008B8B;
+
 }
 
 .featurette h2 {
@@ -314,7 +319,7 @@ padding-top: 40px;
     min-width: 100%;
   }
 
-  .marketing {
+  .market {
     padding: 40px 20px 75px 20px;
   }
 
