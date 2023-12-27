@@ -75,6 +75,10 @@ font-size: 28px;
 margin: 0;
 }
 
+.carousel-inner {
+background-color: #008B8B;
+}
+
 .carousel-caption h3 {
 font-weight:200;
 color: #ea2a2e;
